@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('The technology evangelism application has successfully loaded. Please explore its features.');
+    console.log('The technology evangelism application has loaded successfully. Feel free to explore its features.');
 });
