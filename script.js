@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('Tech-Evangelismus bereit!');
+    console.log('Technology evangelism is ready!');
 });
