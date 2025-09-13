@@ -28,7 +28,7 @@ main {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #e0e0e0; /* Changed this color for better visibility */
+    background-color: #d3d3d3; /* Updated color for better contrast */
     position: relative;
     bottom: 0;
     width: 100%;
